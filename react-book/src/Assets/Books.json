@@ -1,0 +1,89 @@
+[
+    {
+        "id": 1,
+        "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51Q2sJtH6zL._SX351_BO1,204,203,200_.jpg",
+        "title": "Introduction to Design and Analysis of Algorithms",
+        "types": [0, 1],
+        "version": ["v1", "v2", "v3"],
+        "price": 700,
+        "category": 1,
+        "rating": 4
+    },
+
+    {
+        "id": 2,
+        "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51Mls7l0w-L._SX329_BO1,204,203,200_.jpg",
+        "title": "Dreamland: A Novel",
+        "types": [0, 1],
+        "version": ["v1", "v2", "v3"],
+        "price": 900,
+        "category": 3,
+        "rating": 5
+    },
+
+    {
+        "id": 3,
+        "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41eaIvBPZ2L._SX399_BO1,204,203,200_.jpg",
+        "title": "A Common-Sense Guide to Data Structures and Algorithms, Second Edition: Level Up Your Core Programming Skills",
+        "types": [0, 1],
+        "version": ["v1", "v2", "v3"],
+        "price": 800,
+        "category": 1,
+        "rating": 5
+    },
+
+    {
+        "id": 4,
+        "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/61Xn5t0hAOL._SX453_BO1,204,203,200_.jpg",
+        "title": "The Leaf Thief",
+        "types": [0, 1],
+        "version": ["v1", "v2", "v3"],
+        "price": 360,
+        "category": 3,
+        "rating": 5
+    },
+
+    {
+        "id": 5,
+        "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51xSdEZMNgL._SX412_BO1,204,203,200_.jpg",
+        "title": "Campbell Biology",
+        "types": [0, 1],
+        "version": ["v1", "v2", "v3"],
+        "price": 1800,
+        "category": 2,
+        "rating": 5
+    },
+
+    {
+        "id": 6,
+        "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51bHSBUqodL._SX389_BO1,204,203,200_.jpg",
+        "title": "Humanity: An Introduction to Cultural Anthropology",
+        "types": [0, 1],
+        "version": ["v1", "v2", "v3"],
+        "price": 1000,
+        "category": 2,
+        "rating": 5
+    },
+
+    {
+        "id": 7,
+        "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/41ziKzQ7nEL._SX331_BO1,204,203,200_.jpg",
+        "title": "Earth for All: A Survival Guide for Humanity",
+        "types": [0, 1],
+        "version": ["v1", "v2", "v3"],
+        "price": 850,
+        "category": 2,
+        "rating": 4
+    },
+
+    {
+        "id": 8,
+        "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51EjUcaTfPL._SX354_BO1,204,203,200_.jpg",
+        "title": "Modern College Chimestry",
+        "types": [0, 1],
+        "version": ["v1", "v2", "v3"],
+        "price": 970,
+        "category": 2,
+        "rating": 4
+    }
+]
